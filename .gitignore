@@ -6,3 +6,6 @@ __pycache__/
 
 # Ignore .DS_Store from Mac development
 .DS_Store
+
+# Ignore tools I'd like to keep locally
+tools/edit_all_commands.py
