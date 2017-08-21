@@ -9,3 +9,5 @@ __pycache__/
 
 # Ignore tools I'd like to keep locally
 tools/edit_all_commands.py
+tools/edit_all_commands.txt
+tools/add_import.py
