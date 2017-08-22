@@ -24,6 +24,7 @@ from commands import ffc_warn_time
 from commands import gain_mode
 from commands import gain_switch_params
 from commands import get_nv_memory_size
+from commands import get_memory_address
 from commands import get_revision
 from commands import get_spot_meter
 from commands import get_spot_meter_data
